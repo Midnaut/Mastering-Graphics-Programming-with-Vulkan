@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.1.32414.318
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RaptorEngine_Chapter1", "RaptorEngine_Chapter1.vcxproj", "{D56B9D9D-BB71-4775-B542-40FCCCA14BC5}"
 EndProject
@@ -32,6 +32,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RaptorEngine_Chapter14", "RaptorEngine_Chapter14.vcxproj", "{80FC689F-254F-4EAC-86DE-8C5904FC0C19}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RaptorEngine_Chapter15", "RaptorEngine_Chapter15.vcxproj", "{5605286F-1F0E-4829-A04B-8C7BA2141587}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RaptorEngine_Demo", "RaptorEngine_Demo.vcxproj", "{999312A1-984C-490B-BD16-73DCF0FE8B29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,12 @@ Global
 		{5605286F-1F0E-4829-A04B-8C7BA2141587}.Release|x64.Build.0 = Release|x64
 		{5605286F-1F0E-4829-A04B-8C7BA2141587}.Release|x86.ActiveCfg = Release|Win32
 		{5605286F-1F0E-4829-A04B-8C7BA2141587}.Release|x86.Build.0 = Release|Win32
+		{999312A1-984C-490B-BD16-73DCF0FE8B29}.Debug|x64.ActiveCfg = Debug|x64
+		{999312A1-984C-490B-BD16-73DCF0FE8B29}.Debug|x64.Build.0 = Debug|x64
+		{999312A1-984C-490B-BD16-73DCF0FE8B29}.Debug|x86.ActiveCfg = Debug|x64
+		{999312A1-984C-490B-BD16-73DCF0FE8B29}.Release|x64.ActiveCfg = Release|x64
+		{999312A1-984C-490B-BD16-73DCF0FE8B29}.Release|x64.Build.0 = Release|x64
+		{999312A1-984C-490B-BD16-73DCF0FE8B29}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
